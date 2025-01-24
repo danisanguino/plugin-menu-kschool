@@ -316,12 +316,7 @@
   
   html {
     font-size: 62.5%;
-  }
-  
-  body {
     font-family: "montserrat", sans-serif;
-    margin: 0;
-    padding: 0;
   }
   
   .menu {
@@ -334,7 +329,7 @@
     font-size: 1.6rem;
     color: #ffffff;
   }
-  @media (max-width: 468px) {
+  @media (max-width: 480px) {
     .menu {
       flex-direction: column;
       align-items: flex-start;
@@ -348,7 +343,7 @@
     padding: 0 1rem;
     width: 100%;
   }
-  @media (max-width: 468px) {
+  @media (max-width: 480px) {
     .menu__principal {
       flex-direction: column;
       align-items: flex-start;
@@ -364,7 +359,7 @@
     margin: 0;
     padding: 0;
   }
-  @media (max-width: 468px) {
+  @media (max-width: 480px) {
     .menu__list {
       flex-direction: column;
       align-items: flex-start;
@@ -422,7 +417,7 @@
     border-right: 1px solid #fff;
     padding-right: 3rem;
   }
-  @media (max-width: 468px) {
+  @media (max-width: 480px) {
     .menu__access-items {
       display: none;
     }
@@ -479,7 +474,7 @@
     padding: 0;
     margin: 0;
   }
-  @media (max-width: 468px) {
+  @media (max-width: 480px) {
     .header {
       padding: 3rem 1rem;
     }
