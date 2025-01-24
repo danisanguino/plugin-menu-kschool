@@ -32,9 +32,10 @@ To install and configure the plugin, follow these steps:
 4. **Usage**
    - Use the following shortcode to embed the responsive browser:
      ```
-     [responsive_browser]
+     [menu_kschool]
      ```
-
+   - For Gutenberg users, add a text block and insert the shortcode.
+   - For the classic editor, paste the shortcode directly into the editor.
 ---
 
 ## Requirements
